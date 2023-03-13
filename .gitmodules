@@ -1,0 +1,3 @@
+[submodule "maduveridiano/CursoBackend"]
+path = maduveridiano/CursoBackend
+url = https://github.com/maduveridiano/CursoBackend.git
